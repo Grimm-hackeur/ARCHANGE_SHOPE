@@ -1,0 +1,8 @@
+{
+  "name": "techshop-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'No dev server'",
+    "build": "echo 'No build process'"
+  }
+}
